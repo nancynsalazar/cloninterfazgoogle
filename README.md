@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [✨1. Intro 🤓](#)
+* [✨1. Intro 🤓](https://github.com/nancynsalazar/cloninterfazgoogle#1-intro)
 * [✨2. Qué construí 🛠](#)
 * [✨3. Objetivo del proyecto 🎯](#)
 
